@@ -4,9 +4,8 @@ If you want to use this starter project as a base for your own work and keep it 
 
 ### 1. Fork the Repository
 
-1. Go to the GitHub page of this starter project.
-2. Click the **Fork** button at the top right corner of the page.
-3. This will create a copy of the repo in your GitHub account.
+1. Click the **Fork** button at the top right corner of the page.
+2. This will create a copy of the repo in your GitHub account.
 
 ### 2. Clone Your Forked Repository
 
