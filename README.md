@@ -1,3 +1,6 @@
+## TODO
+- Use esbuild for faster bundling & update scripts
+
 ## Using the Starter Project
 
 If you want to use this starter project as a base for your own work and keep it completely separate from the original repository, follow these steps:
